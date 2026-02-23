@@ -133,14 +133,14 @@ plt.show()
 # Output Waveform
 ```
 **ASK **
-![WhatsApp Image 2026-02-23 at 1 11 25 PM](https://github.com/user-attachments/assets/dc019d26-90ed-4b58-9cfb-faf76990a7ad)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a94d93d-e749-4d83-8196-5f92bc3ca77d" />
 
 **FSK**
-![WhatsApp Image 2026-02-23 at 1 11 36 PM](https://github.com/user-attachments/assets/ff052aa1-5c5e-4572-a12d-3856d1125884)
-![WhatsApp Image 2026-02-23 at 1 11 44 PM](https://github.com/user-attachments/assets/4aaf34eb-bf42-4a28-b0a5-3bb869597c2b)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/75fef9d8-3622-4dbf-937f-52875e7270bc" />
+
 
 ```
 # Results
 ```
-Attach the output waveform
+Thus, the ASK and FSK were performed using Colab
 ```
