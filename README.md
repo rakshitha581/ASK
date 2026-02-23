@@ -132,12 +132,13 @@ plt.show()
 ```
 # Output Waveform
 ```
-ASK 
-<img width="1389" height="869" alt="Screenshot 2026-02-23 131634" src="https://github.com/user-attachments/assets/0a719385-313b-4ff4-9be3-899817834bca" />
+**ASK **
+![WhatsApp Image 2026-02-23 at 1 11 25 PM](https://github.com/user-attachments/assets/dc019d26-90ed-4b58-9cfb-faf76990a7ad)
 
-FSK
-<img width="1296" height="867" alt="Screenshot 2026-02-23 131707" src="https://github.com/user-attachments/assets/8584653a-1924-4871-ad75-080d7ec13c0b" />
-<img width="1834" height="347" alt="Screenshot 2026-02-23 131733" src="https://github.com/user-attachments/assets/4bed29db-0e02-490f-b2c5-3dbd04ce4e69" />
+**FSK**
+![WhatsApp Image 2026-02-23 at 1 11 36 PM](https://github.com/user-attachments/assets/ff052aa1-5c5e-4572-a12d-3856d1125884)
+![WhatsApp Image 2026-02-23 at 1 11 44 PM](https://github.com/user-attachments/assets/4aaf34eb-bf42-4a28-b0a5-3bb869597c2b)
+
 ```
 # Results
 ```
