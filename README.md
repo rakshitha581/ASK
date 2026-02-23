@@ -133,7 +133,8 @@ plt.show()
 # Output Waveform
 ```
 **ASK **
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/9a94d93d-e749-4d83-8196-5f92bc3ca77d" />
+<img width="1389" height="869" alt="Screenshot 2026-02-23 131634" src="https://github.com/user-attachments/assets/d083c040-1c91-4101-aaea-42e842a97966" />
+
 
 **FSK**
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/75fef9d8-3622-4dbf-937f-52875e7270bc" />
