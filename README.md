@@ -131,7 +131,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 **ASK **
 <img width="1389" height="869" alt="Screenshot 2026-02-23 131634" src="https://github.com/user-attachments/assets/d083c040-1c91-4101-aaea-42e842a97966" />
 
@@ -140,7 +140,7 @@ plt.show()
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/75fef9d8-3622-4dbf-937f-52875e7270bc" />
 
 
-```
+
 # Results
 ```
 Thus, the ASK and FSK were performed using Colab
